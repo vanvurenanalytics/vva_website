@@ -1,0 +1,8 @@
+html {
+    --pst-font-family-base: garamond, var(--pst-font-family-base-system);
+    --pst-font-family-heading: garamond, var(--pst-font-family-base-system);
+    }
+@font-face {
+    font-family:"garamond";
+    src: url("../fonts/EBGaramond-VariableFont_wght.ttf") format("truetype");
+  }
