@@ -7,8 +7,8 @@
    :maxdepth: 2
    :hidden:
 
-   projects
    services
+   projects
    blogs
 
 About Us
@@ -66,7 +66,7 @@ Countries of Tom’s work experience include Australia, United Kingdom, The Neth
 Ireland, Bulgaria, Poland, Armenia, UAE, Saudi Arabia, Nigeria, India, USA, Thailand, Indonesia, 
 Bangladesh, Singapore and Hong Kong.
 
-.. include:: services.rst
+.. .. include:: services.rst
 
 .. Projects
 .. ========
