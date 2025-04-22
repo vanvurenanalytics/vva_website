@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
 
    projects
@@ -12,7 +12,7 @@
    blogs
 
 About Us
-===================
+========
 
 At Van Vuren Analytics we provide advisory services in transport planning, modelling and analytics.  
 Over the past 40 years we have advised local, regional, and national governments on the models and analyses 
@@ -30,8 +30,6 @@ People
 ======
 Tom van Vuren
 -------------
-
-IMAGE GOES HERE
 
 Tom is a chartered transport planning professional with more than 35 years’ global experience in the 
 successful delivery of transport planning, modelling and research projects  In 2023 he was awarded an 
@@ -67,6 +65,8 @@ for the TPP qualification.
 Countries of Tom’s work experience include Australia, United Kingdom, The Netherlands, Germany, 
 Ireland, Bulgaria, Poland, Armenia, UAE, Saudi Arabia, Nigeria, India, USA, Thailand, Indonesia, 
 Bangladesh, Singapore and Hong Kong.
+
+.. include:: services.rst
 
 .. Projects
 .. ========

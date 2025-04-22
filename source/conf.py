@@ -26,7 +26,7 @@ exclude_patterns = []
 html_theme = 'sphinx_book_theme'
 
 html_sidebars = {
-    "**": ["sbt-sidebar-nav.html", "navbar-logo.html"],
+"./*": ["navbar-logo.html", "globaltoc.html"]
 }
 
 html_title = "VAN VUREN ANALYTICS"
@@ -41,7 +41,7 @@ html_css_files = [
 
 html_theme_options = {
     "toc_title": "",
-    "home_page_in_toc": True
+    "home_page_in_toc": False
 }
 
 

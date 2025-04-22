@@ -3,6 +3,8 @@
 Blogs
 =====
 
+Blogs written by Tom over his career.
+
 `2017 - System optimum routeing as a part of contemporary travel demand management <https://www.linkedin.com/pulse/system-optimum-routeing-part-contemporary-travel-demand-tom-van-vuren/>`_
 
 .. `2017 - Modelling Connected Autonomous Vehicles - Sense and Sensibility <https://www.ptrc-training.co.uk/News/ArtMID/6886/ArticleID/13960/Modelling-Connected-Autonomous-Vehicles-Sense-and-Sensibility>`_
